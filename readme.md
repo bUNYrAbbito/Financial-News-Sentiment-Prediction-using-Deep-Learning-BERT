@@ -8,6 +8,9 @@
 - 🟢 **Bullish**
 - ⚪ **Neutral**
 
+<img src="data/demo.png" alt="Alt text" width="500">
+
+
 The project uses Natural Language Processing (NLP), text preprocessing, tokenization, sequence padding, and Deep Learning models to automatically understand the sentiment of financial news/tweets.
 
 Four Deep Learning models were implemented and compared:
